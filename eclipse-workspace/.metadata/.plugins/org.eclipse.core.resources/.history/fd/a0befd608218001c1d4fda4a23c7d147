@@ -1,0 +1,10 @@
+package br.com.dao;
+
+public class MainClas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
